@@ -1,0 +1,7 @@
+appid_valid: 'd58af6d8f3900e947dbd6325e1711cae'
+# appid_valid: 'c35205acc8938d356723d78d1d88a76'
+
+appid_invalid: 'd58af6d8f3900e947dbd6325e1711c'
+lat: '-9.1333'
+lon: '38.7167'
+city: 'Barueri'
